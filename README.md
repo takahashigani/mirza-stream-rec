@@ -16,8 +16,3 @@ UnityでMiRZAマイクから音声をストリーミングで取得する
 ### Unity
 - Unity 2022.3.27f1
 - Snapdragon Spaces SDK v1.0.1
-
-### AndroidStudio
-MiRZAマイクAndroidNativePlugin作成用プロジェクト
-- Android Studio Ladybug | 2024.2.1 Patch 2
-- Android11(30)以上, ARM64
